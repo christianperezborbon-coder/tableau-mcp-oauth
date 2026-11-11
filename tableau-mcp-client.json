@@ -1,0 +1,16 @@
+
+{
+  "client_id": "https://christianperezborbon-coder.github.io/tableau-mcp-oauth/tableau-mcp-client.json",
+  "client_name": "Gemini Tableau MCP",
+  "redirect_uris": [
+    "http://127.0.0.1:3334/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
